@@ -1,0 +1,79 @@
+body{
+  background-image: url("../img/bg.jpg");
+  background-size: cover;
+}
+
+#container{
+  width: 70%;
+  margin: auto;
+}
+
+/* testata */
+#header-bottom{
+  border-top: 2px solid #fff;
+  border-bottom: 2px solid #fff;
+  padding: 10px 0;
+  margin: 10px 0;
+}
+
+#logo{
+  height: 90px;
+  vertical-align: middle;
+}
+
+#logo-text{
+  display: inline;
+  color: #fff;
+}
+
+#countainer{
+  color: #fff;
+  padding: 10px 0;
+  font-size: 25px;
+}
+
+#countainer span{
+  display: inline-block;
+  background-color: orange;
+  border-radius: 100%;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  vertical-align: middle;
+}
+/* /testata */
+
+/* input e lista email */
+.email{
+  background-color: lightgrey;
+  border: 1px solid black;
+  padding: 3px;
+}
+
+.email span{
+  opacity: 0.5;
+}
+
+.read{
+  background-color:  #f0f5f5;
+}
+/* input e lista email */
+
+/* piè di pagina */
+hr{
+  border: 1px solid #fff;
+}
+
+footer{
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+footer span{
+  font-size: 15px;
+  font-style: italic;
+}
+/* piè di pagina */
