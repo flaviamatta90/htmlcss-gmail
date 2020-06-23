@@ -7,7 +7,9 @@ body{
   width: 70%;
   margin: auto;
 }
-
+.prova{
+  color: red;
+}
 /* testata */
 #header-bottom{
   border-top: 2px solid #fff;
